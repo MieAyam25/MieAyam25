@@ -1,13 +1,16 @@
 Hey there👋
+
 I'm Abisha, a passionate learner hailing from Indonesia.
 
+```javascript
 const abisha = {
   pronouns: "he" | "him",
-  location: "Indonesia",	
+  location: "Indonesia",  
   role: ["Front End Web Developer", "Game Programmer"],
   hobbies: ["Coding", "Gaming", "Exploring new technologies"],
   email: "mieayam5522@gmail.com"
 };
+
 
 🚀 I'm on an exhilarating journey to master the art of web development! Currently, I'm diving deep into the realms of HTML, CSS, and JavaScript, crafting captivating and interactive web experiences.
 
