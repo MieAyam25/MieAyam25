@@ -1,6 +1,6 @@
 Hey there👋
 
-I'm Abisha, a passionate learner hailing from Indonesia.
+I'm Abisha, a passionate learner hailing from Indonesia 🇮🇩.
 
 ```javascript
 const abisha = {
@@ -18,7 +18,7 @@ const abisha = {
 
 💬 Let's Connect! Drop me a line at mieayam5522@gmail.com to chat about coding, games, or anything under the sun!
 
-🌟 Thanks for dropping by! Let's embark on this coding odyssey together!
+✨ Thanks for dropping by! Let's embark on this coding odyssey together!
 
 
-Happy coding! 🌟
+🌟 Happy coding! 🌟
