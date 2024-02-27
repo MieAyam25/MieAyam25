@@ -3,7 +3,7 @@ I'm Abisha, a passionate learner hailing from Indonesia.
 
 const abisha = {
   pronouns: "he" | "him",
-  location: "Indonesia",
+  location: "Indonesia",	
   role: ["Front End Web Developer", "Game Programmer"],
   hobbies: ["Coding", "Gaming", "Exploring new technologies"],
   email: "mieayam5522@gmail.com"
