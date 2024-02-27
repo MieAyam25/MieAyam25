@@ -1,16 +1,21 @@
-### Hi there 👋
+Hey there👋
+I'm Abisha, a passionate learner hailing from Indonesia.
 
-<!--
-**MieAyam25/MieAyam25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+const abisha = {
+  pronouns: "he" | "him",
+  location: "Indonesia",
+  role: ["Front End Web Developer", "Game Programmer"],
+  hobbies: ["Coding", "Gaming", "Exploring new technologies"],
+  email: "mieayam5522@gmail.com"
+};
 
-Here are some ideas to get you started:
+🚀 I'm on an exhilarating journey to master the art of web development! Currently, I'm diving deep into the realms of HTML, CSS, and JavaScript, crafting captivating and interactive web experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎮 When I'm not immersed in web dev, you'll find me lost in the enchanting world of game development! I'm tinkering with languages like C#, Unity, HTML5 Game, sculpting thrilling and immersive gaming experiences.
+
+💬 Let's Connect! Drop me a line at mieayam5522@gmail.com to chat about coding, games, or anything under the sun!
+
+🌟 Thanks for dropping by! Let's embark on this coding odyssey together!
+
+
+Happy coding! 🌟
