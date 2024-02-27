@@ -10,7 +10,7 @@ const abisha = {
   hobbies: ["Coding", "Gaming", "Exploring new technologies"],
   email: "mieayam5522@gmail.com"
 };
-
+```
 
 🚀 I'm on an exhilarating journey to master the art of web development! Currently, I'm diving deep into the realms of HTML, CSS, and JavaScript, crafting captivating and interactive web experiences.
 
