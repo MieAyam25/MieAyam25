@@ -18,7 +18,7 @@ const abisha = {
 
 💬 Let's Connect! Drop me a line at mieayam5522@gmail.com to chat about coding, games, or anything under the sun!
 
-✨ Thanks for dropping by! Let's embark on this coding odyssey together!
+✨ Thanks for dropping by! Let's embark on this coding journey together!
 
 
 🌟 Happy coding! 🌟
